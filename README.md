@@ -20,7 +20,7 @@ This is a simple web application developed using Laravel Inertia Js and vue3. Th
 1. In your root folder, Clone the repository
 
 ```sh
- git clone https://github.com/rahulkumarr1/laravel-inertia-vue3.git
+ git clone https://github.com/redtomato0129/laravel-inertia-vue3.git
  ```
 
 2. Go to project folder
